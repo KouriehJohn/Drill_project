@@ -1,7 +1,7 @@
 # Drill_project
 HTML &amp; CSS Drill final project
 
-Except fo the the images file, both the css files (animations_1.css) and (shared_1.css) were hand coded.
+Except fot the the images file, both the css files (animations_1.css) and (shared_1.css) were hand coded.
 I went through them two times each to debug after their creation. I also hand coded the 'index.html' page.
 
 The index.html page took about 4 rounds of debugging before I got the website to load like the comparision.
